@@ -1,4 +1,4 @@
-# Anwendung für Banken
+# Anwendung für Bankenn
 
 Ein virtueller Geldbeutel braucht eine kleine Anwendung, an der Benutzer Bankkonten beim verschiedenen Banken erstellen können.
 
